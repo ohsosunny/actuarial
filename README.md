@@ -1,0 +1,2 @@
+# actuarial
+all things actuarial
